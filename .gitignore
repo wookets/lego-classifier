@@ -1,0 +1,8 @@
+.DS_Store
+.env/
+bin/
+__pycache__/
+results/
+
+dataset/
+testset/
